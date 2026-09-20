@@ -1,0 +1,8 @@
+{
+  "name": "build-up-market-fx",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
